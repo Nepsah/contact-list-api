@@ -1,8 +1,8 @@
 # contact-list-api
 First clone repository;
 
-Then install dependecies
+Then install dependecies:
 ```npm install```
 
-Then run project
+Then run project:
 ```npm run```
